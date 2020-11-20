@@ -5,7 +5,7 @@
 [![Version](https://img.shields.io/badge/instafb-2.0.0-brightgreen.svg?maxAge=259200)]()
 [![Version](https://img.shields.io/badge/Codename-Pretty-red.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
-[![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-Linux&Win-orange.svg)]()
 
 The brute force of Instagram is working in a new format 2020, just needs to add a proxy, and I didn't do it because of the limited time
 Open source, you can modify it 
