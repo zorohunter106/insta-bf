@@ -17,7 +17,7 @@ print('''
                             "F3  $r                                         
                            $$$$.e$"  .                                      
                            "$$$$$"   "                                      
-     (insTof by 4)           $$$$c  /                                       
+     (insta brute force)     $$$$c  /                                       
         .                   $$$$$$$P                                        
        ."c                      $$$                                         
       .$c3b                  ..J$$$$$e                                      
@@ -27,9 +27,9 @@ print('''
            $$$c      .$$$$$$$  "$$$$$$$$$r                                  
 
 
-Author   : Falah
-snapchat : flaah999
-Thank you snapchat : z7zq5 - Mohammed Al-Otaibi
+Author   : init__0
+twitter  : init__0
+YouTube channel : https://YT.YellowLight.ir
 
 Management depends on vpn software. Please use it before running the tool
 
