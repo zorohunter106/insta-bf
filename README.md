@@ -20,6 +20,10 @@ Open source, you can modify it
 2. ```cd insta-bf```
 3. ```python3 instabf.py```
 
+## who to find ?
+✔. ```-> good hack``` find password
+✔. ```-> good It has to be checked``` find password and 2fw is on
+❌. :) nothing 
 
 ## A Kali Linux operating system. We recommend :
 - Kali Linux 2 or Kali 2016.1 rolling 

