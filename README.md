@@ -21,7 +21,7 @@ Open source, you can modify it
 3. ```python3 instabf.py```
 
 ## Getting Started on andriod (termux)
-1. ```apt install git && git clone https://github.com/samsesh/insta-bf.git && cd insta-bf && chmod +x * && sh andriod_setup.sh```
+1. ```apt update && apt install -y git && git clone https://github.com/samsesh/insta-bf.git && cd insta-bf && chmod +x * && sh andriod_setup.sh```
 2. ```python3 instabf.py```
 
 ## who to find ?
