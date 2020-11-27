@@ -20,6 +20,10 @@ Open source, you can modify it
 2. ```cd insta-bf```
 3. ```python3 instabf.py```
 
+## Getting Started on andriod (termux)
+1. ```apt install git && git clone https://github.com/samsesh/insta-bf.git && cd insta-bf && chmod +x * && sh andriod_setup.sh```
+2. ```python3 instabf.py```
+
 ## who to find ?
 ✔. ```-> good hack``` find password
 ✔. ```-> good It has to be checked``` find password and 2fw is on
