@@ -35,7 +35,7 @@ Open source, you can modify it
 - Parrot 
 - BackTrack 
 - Backbox  
-- Android - Trimix
+- Android - Termux
 - Iphone - python ai 
 - windows - wsl and python
 ## BUG ? 
