@@ -22,7 +22,7 @@ Open source, you can modify it
 
 ## Getting Started on andriod (termux)
 1. ```apt update && apt install -y git && git clone https://github.com/samsesh/insta-bf.git && cd insta-bf && chmod +x * && sh andriod_setup.sh```
-2. ```python3 instabf.py```
+2. ```python instabf.py```
 
 ## who to find ?
 ✔. ```-> good hack``` find password

@@ -13,7 +13,15 @@ chmod +x *
 clear
 sleep 02
 figlet install python
-apt install -y python python2 python3
+apt install -y python 
+clear
+sleep 02
+figlet install python 2
+apt install -y python2
+clear
+sleep 02
+figlet install python 3
+apt install -y python3
 clear
 sleep 02
 figlet installed
