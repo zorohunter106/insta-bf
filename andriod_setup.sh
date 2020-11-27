@@ -1,4 +1,4 @@
-#!/bash/bin
+#!/bin/bash
 echo "update sys"
 apt update
 clear
