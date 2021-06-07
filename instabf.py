@@ -29,7 +29,7 @@ print('''
 
 Author   : init__0
 twitter  : init__0
-YouTube channel : https://YT.YellowLight.ir
+YouTube channel : https://samsesh.net
 
 Management depends on vpn software. Please use it before running the tool
 
