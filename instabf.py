@@ -27,8 +27,8 @@ print('''
            $$$c      .$$$$$$$  "$$$$$$$$$r                                  
 
 
-Author   : init__0
-twitter  : init__0
+Author   : samsesh
+twitter  : _samsesh
 website  : https://samsesh.net
 
 Management depends on vpn software. Please use it before running the tool
