@@ -1,5 +1,5 @@
  # INSTA-BF
-
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/19KHPduHx2C8WAeq13b4xTsGocqq2PM5mN)](https://en.cryptobadges.io/donate/19KHPduHx2C8WAeq13b4xTsGocqq2PM5mN)
 
 
 [![Version](https://img.shields.io/badge/instafb-2.0.0-brightgreen.svg?maxAge=259200)]()
