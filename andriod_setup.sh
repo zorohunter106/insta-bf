@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "update sys"
-apt update
+apt update >> /dev/null
 clear
 sleep 2
 echo "install figlet"
@@ -13,15 +13,15 @@ chmod +x *
 clear
 sleep 02
 figlet install python
-apt install -y python 
+apt install -y python >> /dev/null
 clear
 sleep 02
 figlet install python 2
-apt install -y python2
+apt install -y python2 >> /dev/null
 clear
 sleep 02
 figlet install python 3
-apt install -y python3
+apt install -y python3 >> /dev/null
 clear
 sleep 02
 figlet installed
