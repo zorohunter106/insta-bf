@@ -28,6 +28,8 @@ print('''
 
 
 Author   : samsesh
+insta    : samseshtech
+yt       : samseshtech
 twitter  : _samsesh
 website  : https://samsesh.net
 
